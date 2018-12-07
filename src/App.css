@@ -1,9 +1,23 @@
 
+html{
+  background-color: royalblue;
+  color: white;
+}
+
 .App {
   text-align: center;
+  border: 5px solid white;
+}
+
+h2{
+  font-size: 2rem;
+}
+
+p{
+  font-size: 3rem;
 }
 
 .profilePic{
-  width: 75px;
-  height: 75px;
+  width: 100px;
+  height: 100px;
 }
