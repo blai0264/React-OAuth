@@ -20,7 +20,6 @@ export default class Facebook extends Component {
         })
     }
   render() {
-      let fbContent;
       return (
        <React.Fragment>
      { this.state.isLoggedIn === true &&

@@ -2,9 +2,12 @@
 html{
   background-color: royalblue;
   color: white;
+  font-weight: 700;
 }
 
 .App {
+  display: block;
+  margin: 0 auto;
   text-align: center;
   border: 5px solid white;
 }
